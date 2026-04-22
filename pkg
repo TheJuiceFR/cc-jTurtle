@@ -1,8 +1,7 @@
-local package = {
+{
 	version="2.2.9",
 	description="jTurtle; Juice's Turtle API",
 	provides={"/lib/jTurtle.lua"},
 	depends={"ccinit"},
 	optDepends={},
 }
-return package
